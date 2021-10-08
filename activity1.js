@@ -10,5 +10,5 @@ function saveScore(){
 }
 
 function Nextpage(){
-    window.location = "activity2.html" ;
+    window.location = "activity_2.html" ;
 }
